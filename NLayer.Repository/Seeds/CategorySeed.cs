@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NLayer.Repository.Configurations.Seeds
+namespace NLayer.Repository.Seeds
 {
 
     internal class CategorySeed : IEntityTypeConfiguration<Category>
